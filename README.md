@@ -1,4 +1,4 @@
-Gir-Pro
+Git-Pro
 =======
 
-Book of Git
+Git学习笔记
